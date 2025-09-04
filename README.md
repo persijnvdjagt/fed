@@ -36,14 +36,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-bol.com
+onlinebibliotheek.nl
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepagina
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/website-1.png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Detailpagina
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/website-2.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -56,6 +56,14 @@ bol.com
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  Er wordt geen footer gebruikt
+  Veel div'jes
+  Geen H1 te vinden op de pagina, ze gaan direct naar H2
+  Geen alt text bij de img van covers van boeken
+  Geen video en audio op de website
+  Geen darkmode
+  Geen animaties
+  Contrast is goed
 
 </details>
 

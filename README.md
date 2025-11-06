@@ -200,13 +200,19 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/goed1.png" width="375px" alt="top">
+<img src="readme-images/goed2.png" width="375px" alt="top">
+<img src="readme-images/goed3.png" width="375px" alt="top">
+  Ik heb op mijn website een darkmode aangemaakt door met VAR te werken in mijn CSS. Dat had ik nog niet eerder gedaan. Daarnaast heb ik met position fixed ook een menu gemaakt die onderaan op de pagina vast staat. Dat heb ik ook nog niet eerder gemaakt. 
 
 ### Dit was lastig/Is niet gelukt:
 
 Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+Het is mij niet gelukt om VAR met img te maken. Ik heb het wel geprobeerd, maar ik kwam er niet uit. Ook heb ik geprobeerd de hulp van ChatGTP, ook daarmee kwam ik er helaas niet uit. Daarbij lukte het ook niet om de chatbot te maken. Dus die heb ik niet meegenomen in het eindresultaat.
+
+  <img src="readme-images/fout1.png" width="375px" alt="bummer">
+  <img src="readme-images/fout2.png" width="375px" alt="bummer">
 </details>
 
 ## Bronnenlijst
@@ -218,8 +224,9 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 Nb. ChatGpT en andere AI horen er ook bij.
 Nb. Vermeld de bronnen ook in je code.
 
-1. bron 1
-2. bron 2
-3. ...
+1. Bron Google Gemini: 
+Prompt:
+Leg mij uit hoe ik met javascript een hamburger menu maak. Doe dit ook voor de zoekfunctie.
+2. HTML Symbols. (n.d.). HTML Symbols. https://www.htmlsymbols.xyz/
 
 </details>

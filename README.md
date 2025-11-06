@@ -104,14 +104,14 @@ samen met je groepje opstellen
 | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
+Dit hebben wij niet gedaan met ons groepje
+
 ### Verslag van meeting
 
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Goed op weg.
+- H2'tjes verkeerd gebruikt maar kan nog beter
 
 </details>
 
@@ -122,7 +122,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Stand van zaken
 
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Goed op weg met mijn code, loop op dit moment nergens tegen aan.
 
 ### Agenda voor meeting
 
@@ -134,14 +134,14 @@ samen met je groepje opstellen
 | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
+Dit hebben wij niet gedaan met mijn groepje.
+
 ### Verslag van meeting
 
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Geen feedback, gewoon doorgaan waar ik mee bezig was.
+- Processverslag wel beter bijhouden.
 
 </details>
 
@@ -163,7 +163,7 @@ Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er v
 
 ### Stand van zaken
 
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Door ziekte is mijn laatste voortgangsgesprek met Sanne tijdens mijn mondeling in plaats van het normale mondeling. Website is nog niet af. De laatste hand moet gelegd worden aan mijn CSS. Daarbij moet ik nog beginnen aan mijn JS code.
 
 ### Agenda voor meeting
 
@@ -175,14 +175,14 @@ samen met je groepje opstellen
 | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
+nvt.
+
 ### Verslag van meeting
 
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- JS in mijn code toevoegen.
+- Verder afmaken voor de herkansing.
 
 </details>
 

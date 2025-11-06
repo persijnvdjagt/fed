@@ -22,7 +22,7 @@ Rood
 
 #### Je focus:
 
-responsive
+Bling-bling
 
 </details>
 

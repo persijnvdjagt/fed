@@ -193,7 +193,8 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Je uitkomst - karakteristiek screenshots:
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/pagina-1.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/pagina-2.png" width="375px" alt="uitomst opdracht 2">
 
 ### Dit ging goed/Heb ik geleerd:
 
